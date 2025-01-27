@@ -1,5 +1,4 @@
-## Hi there 👋
-I am Niko.
+## I'm Niko 👋
 
 - 🎓 Education: Bachelor’s degree in Informatics and Econometrics (2024), currently pursuing a Master’s degree in AI for Health
 - 💼 Profession: Former Customer Service Specialist (2020–2022), Intern Unity Developer (2023–2024)
